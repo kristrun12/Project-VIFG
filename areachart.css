@@ -72,6 +72,21 @@ table.gridtable #fuu{
 	margin-top:0px;
 	margin-bottom: 50px;
 }	
+p{
+	font-family: arial;
+	font-size: 15px;
 
+}
+#texti1{
+	margin-left: 64px;
+}
+#heimildir{
+	font-family: arial;
+	font-size: 20px;
+}
+#yolo3{
+	padding-top: 65px;
+	padding-left: 29px;
+}
 
 

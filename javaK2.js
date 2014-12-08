@@ -23,7 +23,7 @@ AmCharts.makeChart("lineChartdiv2",
 							"bullet": "",
 							"id": "AmGraph-1",
 							"lineThickness": 3,
-							"lineColor": "#666633",
+							"lineColor": "#f9a65a",
 							"title": "Læknar",
 							"valueField": "column-1"
 						},
@@ -31,7 +31,7 @@ AmCharts.makeChart("lineChartdiv2",
 							"bullet": "",
 							"id": "AmGraph-2",
 							"lineThickness": 3,
-							"lineColor": "#FF00CC",
+							"lineColor": "#6666FF",
 							"title": "Hjúkrunarfræðingar",
 							"valueField": "column-2"
 						},
@@ -69,7 +69,8 @@ AmCharts.makeChart("lineChartdiv2",
 						{
 							"id": "Title-1",
 							"size": 35,
-							"text": "Fjöldi starfsmanna"
+							"text": "Fjöldi starfsmanna",
+							"color": "#f8f8f8"
 						}
 					],
 					"dataProvider": [

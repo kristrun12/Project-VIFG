@@ -1,3 +1,4 @@
+//Fjöldi skurðaðgerða 
 
 var chart1 = AmCharts.makeChart("chartdiv", {
     "type": "serial",

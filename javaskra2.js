@@ -1,3 +1,4 @@
+//Fjöldi manns á biðlistum
 
 var chart2 = AmCharts.makeChart("chartdiv2", {
     "type": "serial",

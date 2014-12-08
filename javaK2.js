@@ -6,7 +6,7 @@ AmCharts.makeChart("lineChartdiv2",
 					"pathToImages": "http://cdn.amcharts.com/lib/3/images/",
 					"categoryField": "date",
 					"dataDateFormat": "YYYY",
-					"fontSize": 20,
+					"fontSize": 15,
 					"theme": "default",
 					"categoryAxis": {
 						"minPeriod": "YYYY",

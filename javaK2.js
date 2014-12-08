@@ -1,3 +1,5 @@
+//Fjöldi starfsmanna
+
 AmCharts.makeChart("lineChartdiv2",
 				{
 					"type": "serial",

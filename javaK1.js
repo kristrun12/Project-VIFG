@@ -1,3 +1,5 @@
+//Íbúar á starfsmann
+
 AmCharts.makeChart("lineChartdiv",
 				{
 					"type": "serial",

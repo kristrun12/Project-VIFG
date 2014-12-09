@@ -71,6 +71,11 @@ table.gridtable #fuu{
 	margin: 28px;
 	margin-top:0px;
 	margin-bottom: 50px;
+}
+#lineChartdiv3{
+	width: 100%;
+	height: 500px;
+	font-size: 11px;
 }	
 p{
 	font-family: arial;
@@ -88,5 +93,6 @@ p{
 	padding-top: 65px;
 	padding-left: 29px;
 }
+
 
 

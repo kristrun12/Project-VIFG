@@ -1,47 +1,47 @@
 //Línurit fyrir spá um fjölda manns á biðlistum
 
-var chart = AmCharts.makeChart("chartdiv", {
+var chart = AmCharts.makeChart("lineChartdiv3", {
     "type": "serial",
 	"theme": "none",
     "pathToImages": "http://www.amcharts.com/lib/3/images/",
     "dataProvider": [{
         "lineColor": "#b7e021",
-        "date": "2012-01-01",
+        "date": "2001",
         "duration": 408
     }, {
-        "date": "2012-01-02",
+        "date": "2002",
         "duration": 482
     }, {
-        "date": "2012-01-03",
+        "date": "2003",
         "duration": 562
     }, {
-        "date": "2012-01-04",
+        "date": "2004",
         "duration": 379
     }, {
         "lineColor": "#fbd51a",
-        "date": "2012-01-05",
+        "date": "2005",
         "duration": 501
     }, {
-        "date": "2012-01-06",
+        "date": "2006",
         "duration": 443
     }, {
-        "date": "2012-01-07",
+        "date": "2007",
         "duration": 405
     }, {
-        "date": "2012-01-08",
+        "date": "2008",
         "duration": 309,
         "lineColor": "#2498d2"
     }, {
-        "date": "2012-01-09",
+        "date": "2009",
         "duration": 287
     }, {
-        "date": "2012-01-10",
+        "date": "2010",
         "duration": 485
     }, {
-        "date": "2012-01-11",
+        "date": "2011",
         "duration": 890
     }, {
-        "date": "2012-01-12",
+        "date": "2012",
         "duration": 810
     }],
     "balloon": {

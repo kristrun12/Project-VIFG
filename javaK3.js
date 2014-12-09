@@ -5,7 +5,7 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
 	"theme": "none",
     "pathToImages": "http://www.amcharts.com/lib/3/images/",
     "dataProvider": [{
-        "lineColor": "#b7e021",
+        "lineColor": "green",
         "date": "2001",
         "duration": 408
     }, {
@@ -18,7 +18,7 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
         "date": "2004",
         "duration": 379
     }, {
-        "lineColor": "#fbd51a",
+        "lineColor": "green",
         "date": "2005",
         "duration": 501
     }, {
@@ -67,23 +67,23 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
         "valueField": "duration"
     }],
     "chartScrollbar": {},
-    "chartCursor": {
+    /*"chartCursor": {
         "categoryBalloonDateFormat": "YYYY MMM DD",
         "cursorAlpha": 0,
         "zoomable": false
-    },
+    }*/
     "dataDateFormat": "YYYY-MM-DD",
     "categoryField": "date",
     "categoryAxis": {
         "dateFormats": [{
             "period": "DD",
-            "format": "DD"
+            "format": "DD",
         }, {
             "period": "WW",
             "format": "MMM DD"
         }, {
             "period": "MM",
-            "format": "MMM"
+            "format": ""
         }, {
             "period": "YYYY",
             "format": "YYYY"

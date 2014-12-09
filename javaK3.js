@@ -5,44 +5,73 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
 	"theme": "none",
     "pathToImages": "http://www.amcharts.com/lib/3/images/",
     "dataProvider": [{
-        "lineColor": "green",
+        "lineColor": "#f1595f",
+        "date": "2000",
+        "duration": 1709
+    }, {
         "date": "2001",
-        "duration": 408
+        "duration": 3819
     }, {
         "date": "2002",
-        "duration": 482
+        "duration": 3892
     }, {
         "date": "2003",
-        "duration": 562
+        "duration": 4039
     }, {
         "date": "2004",
-        "duration": 379
+        "duration": 2975
     }, {
-        "lineColor": "green",
+
         "date": "2005",
-        "duration": 501
+        "duration": 2952
     }, {
         "date": "2006",
-        "duration": 443
+        "duration": 2167
     }, {
+
         "date": "2007",
-        "duration": 405
+        "duration": 2355
     }, {
+
         "date": "2008",
-        "duration": 309,
-        "lineColor": "#2498d2"
+        "duration": 2576,
     }, {
+
         "date": "2009",
-        "duration": 287
+        "duration": 1715
     }, {
+
         "date": "2010",
-        "duration": 485
+        "duration": 1176
     }, {
+
         "date": "2011",
-        "duration": 890
+        "duration": 1246
     }, {
+
         "date": "2012",
-        "duration": 810
+        "duration": 1406
+    },
+    {
+
+        "date": "2013",
+        "duration": 1577
+    },
+    {
+        "lineColor": "#727272",
+        "date": "2014",
+        "duration": 3777
+    },
+    {
+        
+        "date": "2015",
+        "duration": 5000
+       
+    },
+    {
+        "date": "2016",
+        "duration": 5500
+
     }],
     "balloon": {
         "cornerRadius": 6
@@ -58,7 +87,8 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
     "graphs": [{
        // "bullet": "square",
         "bulletBorderAlpha": 1,
-        "bulletBorderThickness": 1,
+        "bulletBorderThickness": 3,
+        "lineThickness": 3,
         //"fillAlphas": 0.3,
         "fillColorsField": "lineColor",
         "legendValueText": "[[value]]",
@@ -67,12 +97,12 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
         "valueField": "duration"
     }],
     "chartScrollbar": {},
-    /*"chartCursor": {
-        "categoryBalloonDateFormat": "YYYY MMM DD",
+    /*
+        "categoryBalloonDateFormat": "YYYY",
         "cursorAlpha": 0,
         "zoomable": false
-    }*/
-    "dataDateFormat": "YYYY-MM-DD",
+    },*/
+    "dataDateFormat": "YYYY",
     "categoryField": "date",
     "categoryAxis": {
         "dateFormats": [{

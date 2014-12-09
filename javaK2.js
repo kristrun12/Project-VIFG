@@ -54,7 +54,7 @@ AmCharts.makeChart("lineChartdiv2",
 					"valueAxes": [
 						{
 							"id": "ValueAxis-1",
-							"offset": -50
+							"offset": -37
 							//"title": "Fjöldi starfsmanna"
 						}
 					],

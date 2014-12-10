@@ -1,11 +1,15 @@
+body{
+	
+}
+
 #chartdiv {
-	width: 100%; 
+	width:98%; 
 	height: 550px; 
 	background-color: #FFFFFF;
 }	
 
 #chartdiv2 {
-	width	: 100%;
+	width	: 98%;
 	height	: 550px; 
 	background-color: #FFFFFF;
 }	
@@ -58,7 +62,7 @@ table.gridtable #fuu{
  
 #lineChartdiv {
 
-	width: 90%;
+	width: 94%;
 	height: 550px;
 	background-color: #F8F8F8  ;
 	margin: 28px;
@@ -67,7 +71,7 @@ table.gridtable #fuu{
 }
 #lineChartdiv2 {
 
-	width: 90%;
+	width: 94%;
 	height: 550px;
 	background-color: #F8F8F8 ;
 	margin: 28px;
@@ -75,19 +79,22 @@ table.gridtable #fuu{
 	margin-bottom: 50px;
 }
 #lineChartdiv3{
-	width: 100%;
+	width: 96%;
 	height: 500px;
 	font-size: 11px;
 	background-color: #F8F8F8 ;
 }	
 p{
 	font-family: arial;
-	font-size: 15px;
+	font-size: 13px;
+
 
 }
 #texti1{
-	margin-left: 64px;
+	padding-left: 61px;
+	padding-top: 20px;
 }
+
 #heimildir{
 	font-family: arial;
 	font-size: 20px;
@@ -96,6 +103,11 @@ p{
 	padding-top: 65px;
 	padding-left: 29px;
 }
+#yolo5{
+	padding-top: 23px;
+}
+
+
 
 
 

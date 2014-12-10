@@ -94,7 +94,9 @@ p{
 	padding-left: 61px;
 	padding-top: 20px;
 }
-
+#txt2{
+	font-size: 9px;
+}
 #heimildir{
 	font-family: arial;
 	font-size: 20px;

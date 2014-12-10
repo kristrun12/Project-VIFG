@@ -208,7 +208,7 @@ var chart1 = AmCharts.makeChart("chartdiv", {
         "Barnaskurðlækningar" : 529,
         "Annað/óflokkað" : 778
     }, {
-        "year": 2014,
+        "year": "2014 okt",
         "Almennar Skurðlækningar": 1821,
         "Augnlækningar": 4360,
         "Brjóstholsskurðlækningar" : 533,

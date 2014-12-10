@@ -1,3 +1,5 @@
+//FJöldi starfsmanna starfandi
+
 AmCharts.makeChart("lineChartdiv2",
 				{
 					"type": "serial",
@@ -43,19 +45,12 @@ AmCharts.makeChart("lineChartdiv2",
 							"title": "Sjúkraliðar",
 							"valueField": "column-3"
 						}
-						/*{
-							"bullet": "",
-							"id": "AmGraph-4",
-							"title": "Ljósmæður",
-							"valueField": "column-4"
-						}*/
 					],
 					"guides": [],
 					"valueAxes": [
 						{
 							"id": "ValueAxis-1",
 							"offset": -37
-							//"title": "Fjöldi starfsmanna"
 						}
 					],
 					"allLabels": [],
@@ -79,42 +74,36 @@ AmCharts.makeChart("lineChartdiv2",
 							"column-1": 909,
 							"column-2": 2205,
 							"column-3": 1496
-							//"column-4": 5
 						},
 						{
 							"date": "1999",
 							"column-1": 938,
 							"column-2": 2216,
 							"column-3": 1501
-							//"column-4": 5
 						},
 						{
 							"date": "2000",
 							"column-1": 968,
 							"column-2": 2237,
 							"column-3": 1491
-							//"column-4": 5
 						},
 						{
 							"date": "2001",
 							"column-1": 990,
 							"column-2": 2325,
 							"column-3": 1420
-							//"column-4": 5
 						},
 						{
 							"date": "2002",
 							"column-1": 1029,
 							"column-2": 2342,
 							"column-3": 1474
-							//"column-4": 7
 						},
 						{
 							"date": "2003",
 							"column-1": 1049,
 							"column-2": 2474,
 							"column-3": 1474
-							//"column-4": 3
 						},
 						{
 							"date": "2004",
@@ -162,7 +151,7 @@ AmCharts.makeChart("lineChartdiv2",
 							"date": "2011",
 							"column-1": 1120,
 							"column-2": 2765,
-							"column-3": 1950//vantar gögn
+							"column-3": 1965//vantar gögn
 						},
 						{
 							"date": "2012",

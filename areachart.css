@@ -15,9 +15,10 @@ body{
 }	
 #textgraf1{
 	font-family: arial;
-    font-size: 24px;
-    margin-left: 400px;
+    font-size: 21px;
+    margin-left: 500px;
     margin-right: 400px;
+    text-align: center;
 
 }
 #yolo{
@@ -39,7 +40,7 @@ table.gridtable {
     border-collapse: collapse;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 100px;
+    margin-top: 15px;
 }
 table.gridtable th {
     border-width: 1px;
@@ -86,23 +87,14 @@ table.gridtable #fuu{
 }	
 p{
 	font-family: arial;
-	font-size: 13px;
+	font-size: 14px;
 
 }
 #texti1{
-	padding-left: 61px;
-	padding-top: 20px;
+	padding-top: 3px;
+	padding-left: 64px;
 }
-#txt2{
-	font-size: 9px;
-	margin-left: 200px;
-    margin-right: 200px;
-}
-#txt3{
-	font-size: 9px;
-	margin-left: 300px;
-    margin-right: 300px;
-}
+
 #yolo3{
 	padding-top: 65px;
 	padding-left: 29px;

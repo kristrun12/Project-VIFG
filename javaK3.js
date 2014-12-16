@@ -53,29 +53,24 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
         "duration": 1406
     },
     {
-        "lineColor": "#F595A5",
+       
         "date": "2013",
         "duration": 1577
     },
+    
     {   
-        "date": "2014okt",
-        "duration": 4300
-        //"duration": 3777
-    },
-    {   
+        "lineColor": "#F595A5",
         "date": "2014",
-        "duration": 4300
-        //"duration": 3777
+        "duration": 3854
     },
     {
+        
         "date": "2015",
-        "duration": 6500
-        //"duration": 5000
-       
+        "duration": 6000
     },
     {
         "date": "2016",
-        "duration": 9000
+        "duration": 8000
 
     }],
     "balloon": {

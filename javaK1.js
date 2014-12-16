@@ -41,7 +41,7 @@ AmCharts.makeChart("lineChartdiv",
 							"bullet": "",
 							"id": "AmGraph-3",
 							"lineThickness": 3,
-							"lineColor": "#33CCCC",
+							"lineColor": "#3399CC",
 							"title": "Sjúkraliðar",
 							"valueField": "column-3"
 						}

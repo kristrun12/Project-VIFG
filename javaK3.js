@@ -5,7 +5,7 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
 	"theme": "none",
     "pathToImages": "http://www.amcharts.com/lib/3/images/",
     "dataProvider": [{
-        "lineColor": "#f1595f",
+        "lineColor": "#F7405F",
         "date": "2000",
         "duration": 1709
     }, {
@@ -53,24 +53,29 @@ var chart = AmCharts.makeChart("lineChartdiv3", {
         "duration": 1406
     },
     {
-
+        "lineColor": "#F595A5",
         "date": "2013",
         "duration": 1577
     },
-    {
-        "lineColor": "#727272",
+    {   
+        "date": "2014okt",
+        "duration": 4300
+        //"duration": 3777
+    },
+    {   
         "date": "2014",
-        "duration": 3777
+        "duration": 4300
+        //"duration": 3777
     },
     {
-        
         "date": "2015",
-        "duration": 5000
+        "duration": 6500
+        //"duration": 5000
        
     },
     {
         "date": "2016",
-        "duration": 5500
+        "duration": 9000
 
     }],
     "balloon": {

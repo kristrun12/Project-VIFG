@@ -41,7 +41,7 @@ AmCharts.makeChart("lineChartdiv2",
 							"bullet": "",
 							"id": "AmGraph-3",
 							"lineThickness": 3,
-							"lineColor": "#3399CC",
+							"lineColor": "#AAF5A6",
 							"title": "Sjúkraliðar",
 							"valueField": "column-3"
 						}
@@ -50,7 +50,7 @@ AmCharts.makeChart("lineChartdiv2",
 					"valueAxes": [
 						{
 							"id": "ValueAxis-1",
-							"offset": -37
+							"offset": 0
 						}
 					],
 					"allLabels": [],
